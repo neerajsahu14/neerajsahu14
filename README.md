@@ -82,7 +82,7 @@ val neeraj = developer {
 </div>
 
 <div align="center">
-  <a href="https://www.codechef.com/users/neerajsahu_1404">
+  <a href="https://www.codechef.com/users/neeraj_1404">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </div>
