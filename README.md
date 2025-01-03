@@ -76,8 +76,8 @@ val neeraj = developer {
 </div>
 
 <div align="center">
-  <a href="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ilw552fVUGbwIzbE.jpg">
-    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ns922ahwq" alt="GeeksforGeeks Stats"/>
+  <a href="https://auth.geeksforgeeks.org/user/ns922ahwq/profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </div>
 
