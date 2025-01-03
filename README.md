@@ -76,7 +76,7 @@ val neeraj = developer {
 </div>
 
 <div align="center">
-  <a href="https://auth.geeksforgeeks.org/user/ns922ahwq">
+  <a href="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*ilw552fVUGbwIzbE.jpg">
     <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ns922ahwq" alt="GeeksforGeeks Stats"/>
   </a>
 </div>
@@ -86,27 +86,6 @@ val neeraj = developer {
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </div>
-
-<details>
-<summary>More Coding Stats</summary>
-<br>
-
-#### LeetCode Stats
-- 🏆 Contest Rating: 1482
-- ⭐ Total Problems Solved: 317
-- 🎯 Global Ranking: #287330
-
-#### GeeksforGeeks Stats
-- 🏅 Institute Rank: 42
-- 💻 Total Problems Solved: 317
-- 📊 Coding Score: 846
-
-#### CodeChef Stats
-- ⚡ Current Rating: 1824
-- 🌟 Highest Rating: 1892
-- 🎮 Contests Participated: 24
-
-</details>
 
 <h2>📊 GitHub Analytics</h2>
 
