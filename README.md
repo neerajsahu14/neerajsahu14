@@ -1,20 +1,20 @@
-# Hi there, I'm Neeraj Sahu! 👋
+# Hi there, I'm Neeraj Sahu! 👋  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neerajsahu14&style=flat-square&color=blue)  
 ![GitHub Followers](https://img.shields.io/github/followers/neerajsahu14?style=flat-square)  
 ![Stars](https://img.shields.io/github/stars/neerajsahu14?style=flat-square)  
 
-![Banner](https://user-images.githubusercontent.com/12345678/123456789-abcdef00-1234-5678-9abc-def123456789.png)
+![Banner](https://user-images.githubusercontent.com/12345678/123456789-abcdef00-1234-5678-9abc-def123456789.png)  
 
-Welcome to my GitHub! I'm a passionate developer and tech enthusiast pursuing Computer Science and Engineering.
+Welcome to my GitHub! I'm a passionate developer and tech enthusiast pursuing Computer Science and Engineering.  
 
 ---
 
-## 🌟 About Me
+## 🌟 About Me  
 
 - 🎓 **CSE 3rd Year** | Technocrats Institute of Technology  
 - 🏆 Assistant Secretary of the **Coding Club**  
-- 💻 **Android Developer** | Proficient in Kotlin  
+- 💻 **Android Developer** | Proficient in Kotlin and Java  
 - 🔧 **DSA Specialist** in C++  
 - ☁️ Exploring **Google Cloud Platform**  
 - 🛍️ Building an **E-commerce Application**  
@@ -22,10 +22,11 @@ Welcome to my GitHub! I'm a passionate developer and tech enthusiast pursuing Co
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 
 ### Programming  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 
 ### Tools & Technologies  
@@ -34,17 +35,28 @@ Welcome to my GitHub! I'm a passionate developer and tech enthusiast pursuing Co
 
 ---
 
-## 📈 GitHub Stats
+## 🌈 Theme  
+
+I believe in **Clean Code** and **User-Centered Design**, creating applications that are both **functional** and **aesthetically pleasing**. My repositories focus on:  
+- **Android Projects**: Combining Kotlin and Java for dynamic mobile applications  
+- **Cloud Integration**: Leveraging GCP for scalable solutions  
+- **DSA Practices**: Showcasing problem-solving skills through efficient algorithms  
+
+---
+
+## 📈 GitHub Stats  
 
 ![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajsahu14&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsahu&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neerajsahu14&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsahu14&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neerajsahu14&theme=radical)  
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neeraj%20Sahu-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/neerajsahu14/)  
-[![Email](https://img.shields.io/badge/Email-ns9229900@gmail.com-red?style=flat-square&logo=gmail)](mailto: ns9229900@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-ns9229900@gmail.com-red?style=flat-square&logo=gmail)](mailto:ns9229900@gmail.com)  
 
 ---
+
+Let me know if you'd like any further tweaks or additional sections!
