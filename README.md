@@ -92,19 +92,19 @@ val neeraj = developer {
 <br>
 
 #### LeetCode Stats
-- 🏆 Contest Rating: [Link](https://leetcode.com/neerajsahu14/)
-- ⭐ Total Problems Solved
-- 🎯 Ranking
+- 🏆 Contest Rating: 1482
+- ⭐ Total Problems Solved: 317
+- 🎯 Global Ranking: #287330
 
 #### GeeksforGeeks Stats
-- 🏅 Institute Rank
-- 💻 Total Problems Solved
-- 📊 Coding Score
+- 🏅 Institute Rank: 42
+- 💻 Total Problems Solved: 317
+- 📊 Coding Score: 846
 
 #### CodeChef Stats
-- ⚡ Current Rating
-- 🌟 Highest Rating
-- 🎮 Contests Participated
+- ⚡ Current Rating: 1824
+- 🌟 Highest Rating: 1892
+- 🎮 Contests Participated: 24
 
 </details>
 
@@ -118,6 +118,18 @@ val neeraj = developer {
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsahu14&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+<h2>🔥 Most Used Languages</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsahu14&layout=pie&theme=dark" alt="Most Used Languages"/>
+</div>
+
+<h2>📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neerajsahu14&theme=monokai" alt="Contribution Graph"/>
+</div>
 
 <h2>🌟 Featured Projects</h2>
 
@@ -142,6 +154,10 @@ val neeraj = developer {
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
