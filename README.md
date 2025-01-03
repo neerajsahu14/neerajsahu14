@@ -76,13 +76,13 @@ val neeraj = developer {
 </div>
 
 <div align="center">
-  <a href="https://auth.geeksforgeeks.org/user/neerajsahu14">
-    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=neerajsahu14" alt="GeeksforGeeks Stats"/>
+  <a href="https://auth.geeksforgeeks.org/user/ns922ahwq">
+    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ns922ahwq" alt="GeeksforGeeks Stats"/>
   </a>
 </div>
 
 <div align="center">
-  <a href="https://www.codechef.com/users/neerajsahu14">
+  <a href="https://www.codechef.com/users/neerajsahu_1404">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </div>
