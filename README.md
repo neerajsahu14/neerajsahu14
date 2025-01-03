@@ -24,6 +24,7 @@ val neeraj = developer {
     tech {
         android = listOf("Kotlin", "Java")
         programming = listOf("C++", "DSA")
+        databases = listOf("SQL", "Firebase")
         cloud = listOf("Google Cloud Platform")
         currentProject = "E-commerce Application"
     }
@@ -37,13 +38,22 @@ val neeraj = developer {
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 <h3>Tools & Platforms</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+<h3>Database Management</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Firebase_Realtime-FF8A65?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Realtime"/>
+  <img src="https://img.shields.io/badge/Cloud_Firestore-FF8A65?style=for-the-badge&logo=firebase&logoColor=white" alt="Cloud Firestore"/>
 </p>
 
 <h2>📊 GitHub Analytics</h2>
