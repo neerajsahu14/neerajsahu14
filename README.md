@@ -23,10 +23,17 @@ val neeraj = developer {
     
     tech {
         android = listOf("Kotlin", "Java")
-        programming = listOf("C++", "DSA")
+        programming = listOf("C++", "DSA", "XML", "JSON")
         databases = listOf("SQL", "Firebase")
+        platforms = listOf("GitHub", "Linux")
         cloud = listOf("Google Cloud Platform")
         currentProject = "E-commerce Application"
+    }
+    
+    codingProfiles {
+        geeksforgeeks = "neerajsahu14"
+        leetcode = "neerajsahu14"
+        codechef = "neerajsahu14"
     }
 }
 ```
@@ -38,6 +45,8 @@ val neeraj = developer {
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/XML-005C83?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
@@ -45,6 +54,8 @@ val neeraj = developer {
 <p align="left">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -55,6 +66,47 @@ val neeraj = developer {
   <img src="https://img.shields.io/badge/Firebase_Realtime-FF8A65?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase Realtime"/>
   <img src="https://img.shields.io/badge/Cloud_Firestore-FF8A65?style=for-the-badge&logo=firebase&logoColor=white" alt="Cloud Firestore"/>
 </p>
+
+<h2>👨‍💻 Coding Profiles</h2>
+
+<div align="center">
+  <a href="https://leetcode.com/neerajsahu14/">
+    <img src="https://leetcard.jacoblin.cool/neerajsahu14?theme=dark&font=Adamina" alt="LeetCode Stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://auth.geeksforgeeks.org/user/neerajsahu14">
+    <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=neerajsahu14" alt="GeeksforGeeks Stats"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.codechef.com/users/neerajsahu14">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
+</div>
+
+<details>
+<summary>More Coding Stats</summary>
+<br>
+
+#### LeetCode Stats
+- 🏆 Contest Rating: [Link](https://leetcode.com/neerajsahu14/)
+- ⭐ Total Problems Solved
+- 🎯 Ranking
+
+#### GeeksforGeeks Stats
+- 🏅 Institute Rank
+- 💻 Total Problems Solved
+- 📊 Coding Score
+
+#### CodeChef Stats
+- ⚡ Current Rating
+- 🌟 Highest Rating
+- 🎮 Contests Participated
+
+</details>
 
 <h2>📊 GitHub Analytics</h2>
 
@@ -80,6 +132,9 @@ val neeraj = developer {
 <p align="center">
   <a href="https://www.linkedin.com/in/neerajsahu14/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/neerajsahu14">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:ns9229900@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
