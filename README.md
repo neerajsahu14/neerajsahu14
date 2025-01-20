@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97EB&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Android+Developer;DSA+Specialist;Cloud+Computing+Enthusiast" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C97EB&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Android+Developer;Cloud+Computing+Enthusiast" alt="Typing SVG"/>
 </div>
 
 <h2>🎓 About Me</h2>
@@ -28,12 +28,6 @@ val neeraj = developer {
         platforms = listOf("GitHub", "Linux")
         cloud = listOf("Google Cloud Platform")
         currentProject = "E-commerce Application"
-    }
-    
-    codingProfiles {
-        geeksforgeeks = "neerajsahu14"
-        leetcode = "neerajsahu14"
-        codechef = "neerajsahu14"
     }
 }
 ```
